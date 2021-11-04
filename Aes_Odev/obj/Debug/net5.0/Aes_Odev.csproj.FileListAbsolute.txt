@@ -1,0 +1,16 @@
+C:\Users\İlhan\Source\Repos\Aes_Odev\bin\Debug\net5.0\Aes_Odev.exe
+C:\Users\İlhan\Source\Repos\Aes_Odev\bin\Debug\net5.0\Aes_Odev.deps.json
+C:\Users\İlhan\Source\Repos\Aes_Odev\bin\Debug\net5.0\Aes_Odev.runtimeconfig.json
+C:\Users\İlhan\Source\Repos\Aes_Odev\bin\Debug\net5.0\Aes_Odev.runtimeconfig.dev.json
+C:\Users\İlhan\Source\Repos\Aes_Odev\bin\Debug\net5.0\Aes_Odev.dll
+C:\Users\İlhan\Source\Repos\Aes_Odev\bin\Debug\net5.0\ref\Aes_Odev.dll
+C:\Users\İlhan\Source\Repos\Aes_Odev\bin\Debug\net5.0\Aes_Odev.pdb
+C:\Users\İlhan\Source\Repos\Aes_Odev\obj\Debug\net5.0\Aes_Odev.csproj.AssemblyReference.cache
+C:\Users\İlhan\Source\Repos\Aes_Odev\obj\Debug\net5.0\Aes_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İlhan\Source\Repos\Aes_Odev\obj\Debug\net5.0\Aes_Odev.AssemblyInfoInputs.cache
+C:\Users\İlhan\Source\Repos\Aes_Odev\obj\Debug\net5.0\Aes_Odev.AssemblyInfo.cs
+C:\Users\İlhan\Source\Repos\Aes_Odev\obj\Debug\net5.0\Aes_Odev.csproj.CoreCompileInputs.cache
+C:\Users\İlhan\Source\Repos\Aes_Odev\obj\Debug\net5.0\Aes_Odev.dll
+C:\Users\İlhan\Source\Repos\Aes_Odev\obj\Debug\net5.0\ref\Aes_Odev.dll
+C:\Users\İlhan\Source\Repos\Aes_Odev\obj\Debug\net5.0\Aes_Odev.pdb
+C:\Users\İlhan\Source\Repos\Aes_Odev\obj\Debug\net5.0\Aes_Odev.genruntimeconfig.cache
